@@ -1,0 +1,7 @@
+pdfplumber
+PyMuPDF
+pdfminer.six
+transformers
+torch
+openai
+pandas
